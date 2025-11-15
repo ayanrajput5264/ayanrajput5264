@@ -7,7 +7,8 @@ Web Developer • Learner • Creator
 
 ---
 
-💻 My Animated Setup
+💻 My Animated Setup ## My Animation
+![Ayan Animation](assets/ayan.gif)
 
 <p align="center">
   <img src="rotating_demo.gif" width="250" />
