@@ -1,56 +1,26 @@
 <p align="center">
+  <svg width="300" height="300" viewBox="0 0 200 200">
+    <!-- Rotating Laptop -->
+    <g transform-origin="100 80">
+      <image href="https://cdn-icons-png.flaticon.com/512/2422/2422162.png" x="30" y="20" width="140" height="140">
+        <animateTransform attributeName="transform"
+          type="rotate"
+          from="0 100 80"
+          to="360 100 80"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </image>
+    </g>
 
-## Hi there 👋
-
-<Hi 👋, I'm Ayan Rajput
-
-Web Developer • Learner • Creator
-
-
----
-
-<p align="center">
-  <img src="rotating_demo.gif" width="250" />
+    <!-- Rotating Name -->
+    <text x="100" y="180" font-size="18" font-family="Verdana" fill="#1E90FF" text-anchor="middle">
+      Ayan Rajput
+      <animateTransform attributeName="transform"
+        type="rotate"
+        from="360 100 180"
+        to="0 100 180"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </text>
+  </svg>
 </p>
----
-
-🚀 About Me
-
-🌱 I’m currently learning Web Development
-
-⚡ Passion: Coding, Designing & Building Creative Projects
-
-🎯 Goal: Become a Professional Developer
-
-
-
----
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Tools: VS Code, Git & GitHub
-
-Learning: React, Backend Skills
-
-
-
----
-
-🔗 Connect With Me
-
-GitHub: Ayan-Rajput!--
-**ayanrajput5264/ayarajput5264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
