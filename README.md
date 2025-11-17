@@ -1,38 +1,61 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E90FF&width=600&lines=👨‍💻+Ayan+Rajput;Web+Developer+%7C+Future+Blockchain+Developer;Learning+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=1E90FF&width=650&lines=👨‍💻+Ayan+Rajput;Web+Developer+%7C+Future+Blockchain+Engineer;Always+Learning+%26+Improving+🚀" />
 </p>
 
-<!-- Laptop Coding GIF -->
+<!-- Rotating Laptop + Name Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <svg width="330" height="330" viewBox="0 0 200 200">
+    <!-- Rotating Laptop Icon -->
+    <g transform-origin="100 80">
+      <image href="https://cdn-icons-png.flaticon.com/512/4725/4725742.png" x="30" y="20" width="140" height="140">
+        <animateTransform attributeName="transform"
+          type="rotate"
+          from="0 100 80"
+          to="360 100 80"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </image>
+    </g>
+
+    <!-- Rotating Name -->
+    <text x="100" y="185" font-size="22" font-weight="bold" font-family="Verdana" fill="#1E90FF" text-anchor="middle">
+      Ayan Rajput
+      <animateTransform attributeName="transform"
+        type="rotate"
+        from="360 100 185"
+        to="0 100 185"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </text>
+  </svg>
 </p>
 
-<h1 align="center" style="color:#1E90FF; font-weight:700;">
-  👋 Hi, I'm <span style="color:#1E90FF;">Ayan Rajput</span>
+<h1 align="center" style="color:#1E90FF; font-weight:900; font-size:46px;">
+  <strong>Ayan Rajput</strong>
 </h1>
 
 ---
 
 ## 🚀 About Me
-- 🌐 Abhi main **Web Development** seekh raha hoon  
-- 🔗 Aage chal kar **Blockchain Development** bhi seekhne ka plan hai  
-- 💻 Mujhe coding aur tech cheezein bohot pasand hain  
+- 🌐 Currently learning **Web Development**  
+- 🔗 Planning to explore **Blockchain Development** soon  
+- 💻 Passionate about coding, UI design, and modern technology  
 - 📩 Email: **ayanait87@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack (Learning / Using)
 - **HTML5, CSS3, JavaScript**
-- **React (jaldi seekhonga)**
-- **Node.js (soon)**
-- **Blockchain basics (future learning)**
+- **React (coming soon)**
+- **Node.js (coming soon)**
+- **Blockchain Basics (future learning)**
 
 ---
 
 ## ⚡ Fun Facts
-- Mujhe beautiful UI design karna pasand hai  
-- Mera motto: *"Code, Learn, Grow"*
+- I love building clean and beautiful user interfaces  
+- I follow the principle: *"Code • Improve • Repeat"*  
 
 ---
 
@@ -49,5 +72,5 @@
 
 ## 💙 Thanks for Visiting My Profile!
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
+  <img src="https://i.gifer.com/7VE.gif" width="340" />
 </p>
