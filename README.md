@@ -1,5 +1,4 @@
 
-<!-- Rotating Name Title -->
 <p align="center">
   <svg width="350" height="350" viewBox="0 0 200 200">
     <!-- Rotating Ring -->
@@ -12,18 +11,7 @@
         repeatCount="indefinite"/>
     </circle>
 
-    <!-- Rotating Name -->
-    <text x="100" y="108" font-size="24" font-weight="bold" font-family="Verdana" fill="#1E90FF" text-anchor="middle">
-      Rao Ayan Rajput
-      <animateTransform attributeName="transform"
-        type="rotate"
-        from="360 100 108"
-        to="0 100 108"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
+    
 
 ---
 
@@ -66,10 +54,6 @@ If you're interested in connecting or collaborating, feel free to reach out!
 
 ---
 
-## 💻 Coding Animation
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="350" />
-</p>
 
 ---
 
