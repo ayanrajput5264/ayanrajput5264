@@ -1,26 +1,53 @@
+<!-- Animated Banner -->
 <p align="center">
-  <svg width="300" height="300" viewBox="0 0 200 200">
-    <!-- Rotating Laptop -->
-    <g transform-origin="100 80">
-      <image href="https://cdn-icons-png.flaticon.com/512/2422/2422162.png" x="30" y="20" width="140" height="140">
-        <animateTransform attributeName="transform"
-          type="rotate"
-          from="0 100 80"
-          to="360 100 80"
-          dur="6s"
-          repeatCount="indefinite"/>
-      </image>
-    </g>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E90FF&width=600&lines=👨‍💻+Ayan+Rajput;Web+Developer+%7C+Future+Blockchain+Developer;Learning+Everyday+🚀" />
+</p>
 
-    <!-- Rotating Name -->
-    <text x="100" y="180" font-size="18" font-family="Verdana" fill="#1E90FF" text-anchor="middle">
-      Ayan Rajput
-      <animateTransform attributeName="transform"
-        type="rotate"
-        from="360 100 180"
-        to="0 100 180"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </text>
-  </svg>
+<!-- Laptop Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<h1 align="center" style="color:#1E90FF; font-weight:700;">
+  👋 Hi, I'm <span style="color:#1E90FF;">Ayan Rajput</span>
+</h1>
+
+---
+
+## 🚀 About Me
+- 🌐 Abhi main **Web Development** seekh raha hoon  
+- 🔗 Aage chal kar **Blockchain Development** bhi seekhne ka plan hai  
+- 💻 Mujhe coding aur tech cheezein bohot pasand hain  
+- 📩 Email: **ayanait87@gmail.com**
+
+---
+
+## 🛠️ Tech Stack (Learning / Using)
+- **HTML5, CSS3, JavaScript**
+- **React (jaldi seekhonga)**
+- **Node.js (soon)**
+- **Blockchain basics (future learning)**
+
+---
+
+## ⚡ Fun Facts
+- Mujhe beautiful UI design karna pasand hai  
+- Mera motto: *"Code, Learn, Grow"*
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 💙 Thanks for Visiting My Profile!
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350">
 </p>
